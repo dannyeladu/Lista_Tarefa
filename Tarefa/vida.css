@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+
+h1 {
+    color:rgb(107, 44, 84);
+    background-image: linear-gradient(to bottom, rgba(236, 236, 167, 0.815), rgb(223, 192, 192));
+    font-size: 45px;
+    
+    text-align: center;
+    padding: 10px;   
+}
+
+img {
+    padding: 10px 30px 10px 400px; 
+    max-width: 980px; 
+}
+    
+h4 {
+    color:rgb(107, 44, 84);
+    text-align: center;
+    font-size: 25px;
+    font: larger;
+}
+
+ul {
+    color:rgb(107, 48, 84);
+    background-image: linear-gradient(to bottom, rgba(236, 236, 167, 0.815), rgb(223, 192, 192));
+    font-size: 17px;
+    padding: 10px 50px 10px 450px;
+}
+
+
+div.Arroz {
+    background-image: linear-gradient(to bottom, rgba(236, 236, 167, 0.815), rgb(179, 105, 105));
+    display: inline-block;
+    padding: 10px 50px 10px 150px;
+    border: 2px solid rgb(134, 48, 104);
+    border-radius: 10px;
+    width: 266px;
+    height: 200px;
+}
+
+div.Feijão {
+    background-image: linear-gradient(to bottom, rgba(236, 236, 167, 0.815), rgb(179, 105, 105));
+    display: inline-block;
+    padding: 10px 50px 10px 150px;
+    border: 2px solid rgb(134, 48, 104);
+    border-radius: 10px;
+    width: 266px;
+    height: 200px;
+}
+
+div.Macarrão {
+    background-image: linear-gradient(to bottom, rgba(236, 236, 167, 0.815), rgb(179, 105, 105));
+    display: inline-block;
+    padding: 10px 50px 10px 150px;
+    border: 2px solid rgb(134, 48, 104);
+    border-radius: 10px;
+    width: 266px;
+    height: 200px;
+}
+
+div.Leite {
+    background-image: linear-gradient(to bottom, rgba(236, 236, 167, 0.815), rgb(179, 105, 105));
+    display: inline-block;
+    padding: 10px 50px 10px 150px;
+    border: 2px solid rgb(134, 48, 104);
+    border-radius: 10px;
+    width: 266px;
+    height: 200px;
+}
+
+div.Oléo {
+    background-image: linear-gradient(to bottom, rgba(236, 236, 167, 0.815), rgb(179, 105, 105));
+    display: inline-block;
+    padding: 10px 50px 10px 150px;
+    border: 2px solid rgb(134, 48, 104);
+    border-radius: 10px;
+    width: 266px;
+    height: 200px;
+}
